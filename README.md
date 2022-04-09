@@ -4,6 +4,12 @@
 Get the internet explorer back on windows 11.   
 ![image](https://user-images.githubusercontent.com/40364569/146691545-2eec0435-ee7b-474e-ab08-9a930da23769.png)
 
+## Instructions
+
+ - launch activate.bat as Administrator
+ - open the .hta file
+
+
 I found this while playing around with some .hta files.
 This is based on old hta stuff that still uses iexplore as its rendering engine.   
 And yes as far as is know this is the **real** and pure internet explorer and **not** edge in iexplore mode. 
